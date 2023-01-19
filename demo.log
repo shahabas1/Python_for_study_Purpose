@@ -1,0 +1,9 @@
+DEBUG:root:checking for name is alphabet
+DEBUG:root:checking for name is alphabet
+DEBUG:parso.cache:pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/3/builtins.pyi
+DEBUG:parso.cache:pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/3/sys.pyi
+DEBUG:parso.cache:pickle loaded: /opt/conda/lib/python3.10/typing.py
+DEBUG:parso.cache:pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/3/typing.pyi
+INFO:root:10
+INFO:root:20
+INFO:root:30

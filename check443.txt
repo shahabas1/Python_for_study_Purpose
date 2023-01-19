@@ -1,0 +1,6 @@
+Check Number :443
+Sales tax :6
+Subtotal:23.14
+Total:161.98000000000002
+Table Number: 17
+Server:shahabas
